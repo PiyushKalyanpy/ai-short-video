@@ -21,6 +21,8 @@ This project is an AI-powered short video maker that generates engaging videos f
 * **Firebase:** User data management, storage
 
 **Screenshots**
+![Screenshot 1](screenshots/1.png)
+![Screenshot 2](screenshots/2.png)
 
 
 **Installation**
