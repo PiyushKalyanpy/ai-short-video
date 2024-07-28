@@ -29,11 +29,11 @@ This project is an AI-powered short video maker that generates engaging videos f
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-short-video-maker.git
+   git clone https://github.com/PiyushKalyanpy/ai-short-video.git
    ```
 2. **Install dependencies:**
    ```bash
-   cd ai-short-video-maker
+   cd ai-short-video
    npm install
    ```
 3. **Set up environment variables:**
